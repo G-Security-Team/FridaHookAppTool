@@ -1,4 +1,4 @@
-# MpassPentestTool
+# FridaHookAppTool（以下是Hook mpass框架的例子）
 mpass移动开发框架ios端抓包hook脚本
 
 
