@@ -1,5 +1,5 @@
-# FridaHookAppTool（以下是Hook mpass框架的例子）
-mpass移动开发框架ios端抓包hook脚本
+# FridaHookAppTool（以下是Hook mpaas框架的例子）
+mpaas移动开发框架ios端抓包hook脚本
 
 
 
